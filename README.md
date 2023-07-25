@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Sharma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash8225048544&label=Profile%20views&color=0e75b6&style=flat" alt="avinash8225048544" /> </p>
 
